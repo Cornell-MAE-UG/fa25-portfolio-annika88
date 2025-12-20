@@ -3,7 +3,7 @@ layout: project
 title: Fall Creek Hydroturbine System Analysis
 description: An analysis of the specfic Hydroturbine system used in the Beebe Lake / Fall Creek Hydroelectric Power Facility!
 technologies: []
-image: /assets/images/thermo-ec/cornell_hydro_drawing.jpg
+image: /assets/images/thermo-ec/cornell_hydro.jpg
 ---
 
 
@@ -116,6 +116,9 @@ term on the left can be neglected and mass terms can be combined. Due
 to limitations of current coursework, it also makes sense to have the
 enthalpy and velocity constant during the process, as it would be
 difficult to calculate specific values.
+
+![Diagram]({{ "/assets/images/thermo-ec/turbine_diagram.jpg" | relative_url }}){: style="width:100%; display:block;" }
+A control volume system diagram of our analysis
 
 This leaves power equal to the mass flow rate times the difference in
 specific potential energy. For a steady state system, mass flow rate
