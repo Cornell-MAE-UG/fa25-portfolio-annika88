@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Annika Terezakis - CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,23 +8,23 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [art226@cornell.edu](mailto:art226@cornell.edu) | | | **Phone:** +914-208-1888
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Mechanical Engineering student with a broad skill set and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 4.05/4.0 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **[Hackley School, Tarrytown NY]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June, 2024
 
 ---
 
@@ -49,8 +49,8 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
+- **Rapid Prototyping Lab - Lab Technician**  
+  October, 2024 - Present  
   - Responsibility 1  
   - Responsibility 2  
 
