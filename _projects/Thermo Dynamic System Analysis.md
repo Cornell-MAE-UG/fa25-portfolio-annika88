@@ -3,7 +3,7 @@ layout: project
 title: Fall Creek Hydroturbine System Analysis
 description: An analysis of the specfic Hydroturbine system used in the Beebe Lake / Fall Creek Hydroelectric Power Facility!
 technologies: []
-image: /assets/images/thermo ec/cornell_hydro_drawing.jpg
+image: /assets/images/thermo ec/cornell_hydro_drawing.jpg | relative_url
 ---
 
 
@@ -22,8 +22,7 @@ image: /assets/images/thermo ec/cornell_hydro_drawing.jpg
 
 ## Overview
 
-![Aerial Image]({{ "/assets/images/thermo ec/cornell_hydro.jpg" |
-relative_url }}){: style="width:100%; display:block;" }
+![Aerial Image]({{ "/assets/images/thermo ec/cornell_hydro.jpg" | relative_url }}){: style="width:100%; display:block;" }
 Source: [Cornellians](https://alumni.cornell.edu/cornellians/hydroelectric-plant/)
 
 ![Artist's Rendering]({{ "/assets/images/thermo ec/cornell_hydro_drawing.jpg" | relative_url }}){: style="width:100%;
@@ -41,12 +40,10 @@ blades twice, hence the "cross-flow" name, maximizing the amount of
 energy that can be harnessed. Water finally exits on the opposite side
 and is free to continue through the waterway.
 
-![Diagram]({{ "/assets/images/thermo ec/ossberger_diagram.png" |
-relative_url }}){: style="width:100%; display:block;" }
+![Diagram]({{ "/assets/images/thermo ec/ossberger_diagram.png" | relative_url }}){: style="width:100%; display:block;" }
 Source: [Ossberger](https://www.ossberger.de/en/hydropower-technology/ossbergerr-crossflow-turbine)
 
-![Diagram]({{ "/assets/images/thermo ec/turbine_diagram_flow.jpg" |
-relative_url }}){: style="width:100%; display:block;" }
+![Diagram]({{ "/assets/images/thermo ec/turbine_diagram_flow.jpg" | relative_url }}){: style="width:100%; display:block;" }
 Source: [Pump Fundamentals](https://www.pumpfundamentals.com/images/ossberger.jpg)
 
 A benefit of crossflow turbines is that they operate at a variety of
