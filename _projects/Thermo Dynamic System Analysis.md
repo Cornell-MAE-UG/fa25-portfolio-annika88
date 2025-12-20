@@ -3,7 +3,7 @@ layout: project
 title: Fall Creek Hydroturbine System Analysis
 description: An analysis of the specfic Hydroturbine system used in the Beebe Lake / Fall Creek Hydroelectric Power Facility!
 technologies: []
-image: /assets/images/thermo ec/cornell_hydro_drawing.jpg | relative_url
+image: /assets/images/thermo%20ec/cornell_hydro_drawing.jpg | relative_url
 ---
 
 
