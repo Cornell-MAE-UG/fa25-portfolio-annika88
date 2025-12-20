@@ -3,7 +3,7 @@ layout: project
 title: Fall Creek Hydroturbine System Analysis
 description: An analysis of the specfic Hydroturbine system used in the Beebe Lake / Fall Creek Hydroelectric Power Facility!
 technologies: []
-image: /assets/images/thermo%20ec/cornell_hydro_drawing.jpg | relative_url
+image: /assets/images/thermo-ec/cornell_hydro_drawing.jpg
 ---
 
 
@@ -22,10 +22,10 @@ image: /assets/images/thermo%20ec/cornell_hydro_drawing.jpg | relative_url
 
 ## Overview
 
-![Aerial Image]({{ "/assets/images/thermo ec/cornell_hydro.jpg" | relative_url }}){: style="width:100%; display:block;" }
+![Aerial Image]({{ "/assets/images/thermo-ec/cornell_hydro.jpg" | relative_url }}){: style="width:100%; display:block;" }
 Source: [Cornellians](https://alumni.cornell.edu/cornellians/hydroelectric-plant/)
 
-![Artist's Rendering]({{ "/assets/images/thermo ec/cornell_hydro_drawing.jpg" | relative_url }}){: style="width:100%;
+![Artist's Rendering]({{ "/assets/images/thermo-ec/cornell_hydro_drawing.jpg" | relative_url }}){: style="width:100%;
 display:block;" }
 Source: [Cornell
 Facilities](https://fcs.cornell.edu/departments/energy-sustainability/district-energy-water/hydroelectric-power)
@@ -40,10 +40,10 @@ blades twice, hence the "cross-flow" name, maximizing the amount of
 energy that can be harnessed. Water finally exits on the opposite side
 and is free to continue through the waterway.
 
-![Diagram]({{ "/assets/images/thermo ec/ossberger_diagram.png" | relative_url }}){: style="width:100%; display:block;" }
+![Diagram]({{ "/assets/images/thermo-ec/ossberger_diagram.png" | relative_url }}){: style="width:100%; display:block;" }
 Source: [Ossberger](https://www.ossberger.de/en/hydropower-technology/ossbergerr-crossflow-turbine)
 
-![Diagram]({{ "/assets/images/thermo ec/turbine_diagram_flow.jpg" | relative_url }}){: style="width:100%; display:block;" }
+![Diagram]({{ "/assets/images/thermo-ec/turbine_diagram_flow.jpg" | relative_url }}){: style="width:100%; display:block;" }
 Source: [Pump Fundamentals](https://www.pumpfundamentals.com/images/ossberger.jpg)
 
 A benefit of crossflow turbines is that they operate at a variety of
@@ -184,11 +184,11 @@ unable to be taken--water was frozen.
 <span style="display:block; margin-top:12px;"></span>
 
 Discharge of water over the course of the year:
-![Discharge]({{ "/assets/images/thermo ec/graph_one.jpg" |
+![Discharge]({{ "/assets/images/thermo-ec/graph_one.jpg" |
 relative_url }}){: style="width:100%; display:block;" }
 
 Power output:
-![Power Output]({{ "/assets/images/thermo ec/graph_two.jpg" |
+![Power Output]({{ "/assets/images/thermo-ec/graph_two.jpg" |
 relative_url }}){: style="width:100%; display:block;" }
 
 &nbsp;
